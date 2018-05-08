@@ -84,13 +84,13 @@ StScrollBar {
 		border-radius: 0;
 		background-color: transparent; }
 	StScrollBar StButton#vhandle, StScrollBar StButton#hhandle {
-		border-radius: 0px;
-		background-color: #e4e4e4;
-		margin: 3px; }
+		border-radius: 8px;
+		background-color: #4c4c4c;
+		margin: 4px; }
 		StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
-			background-color: #e4e4e4; }
+			background-color: #4c4c4c; }
 		StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
-			background-color:#e4e4e4; }
+			background-color:#4c4c4c; }
 
 /* Slider */
 .slider {
@@ -580,8 +580,7 @@ StScrollBar {
 	height: 24px;
 	background-color: rgba(255,255,255,0.75);
 	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.3);
-	text-shadow: none;
-}
+	text-shadow: none; }
 	#panel.solid {
 		background-gradient-direction: none; }
 	#panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
