@@ -1,5 +1,8 @@
-# OS-X-Yosemite
-### GTK theme based on the flat appearance of OS X 10.10 Yosemite
+[![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
+
+# OS X 10.10 'Yosemite'
+
+GTK theme based on the flat appearance of OS X 10.10 Yosemite
 
 ![os-x-yosemite](https://github.com/B00merang-Project/gallery/raw/master/OS_X_Yosemite%20(3).png)
 
