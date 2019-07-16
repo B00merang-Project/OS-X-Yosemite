@@ -4,7 +4,7 @@
 
 GTK theme based on the flat appearance of OS X 10.10 Yosemite
 
-![os-x-yosemite](https://github.com/B00merang-Project/gallery/raw/master/OS_X_Yosemite%20(3).png)
+![os-x-yosemite](https://github.com/B00merang-Project/gallery/raw/master/OS%20X%2010.10%20Yosemite%20(1).png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
