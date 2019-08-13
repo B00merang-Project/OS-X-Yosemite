@@ -48,6 +48,7 @@
          x="(0 `max` ((width - title_width) / 2))"
          y="(0 `max` ((height - title_height) / 2)) + 1"
          color="#4c4c4c" />
+
   <title version=">= 3.1"
          x="(0 `max` ((frame_x_center - title_width / 2) `min` (width - title_wi
 dth)))"
