@@ -10,6 +10,7 @@ GTK theme based on the flat appearance of OS X 10.10 Yosemite
 - Any GTK-based desktop
 - Cinnamon
 - Gnome
+- MATE
 - Xfce
 
 ### Manual installation
