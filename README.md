@@ -1,3 +1,6 @@
+### Notice
+### After review, it was determined that this theme was too similar to [macOS Catalina](https://github.com/B00merang-Project/macOS-Catalina). Going forward, Catalina will be the theme that will continue the iteration of flat design that started with Yosemite.
+
 [![built-with-azurra-framework](https://github.com/B00merang-Project/B00merang-Project.github.io/blob/master/resources/badges/azurra/badge_smaller.png)](https://github.com/B00merang-Project/Azurra_framework)
 
 # OS X Yosemite
